@@ -11,22 +11,22 @@
 		"typecheck": "tsc"
 	},
 	"dependencies": {
-		"@remix-run/node": "*",
-		"@remix-run/react": "*",
-		"react": "^18.3.1",
-		"react-dom": "^18.3.1"
+		"@remix-run/node": "2.12.1",
+		"@remix-run/react": "2.12.1",
+		"react": "18.3.1",
+		"react-dom": "18.3.1"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.3",
-		"@remix-run/dev": "*",
+		"@remix-run/dev": "2.12.1",
 		"@types/react": "^18.3.11",
 		"@types/react-dom": "^18.3.0",
-		"autoprefixer": "^10.4.20",
-		"postcss": "^8.4.47",
-		"tailwindcss": "^3.4.13",
-		"typescript": "^5.6.2",
-		"vite": "^5.4.8",
-		"vite-tsconfig-paths": "^4.2.1"
+		"autoprefixer": "10.4.20",
+		"postcss": "8.4.47",
+		"tailwindcss": "3.4.13",
+		"typescript": "5.6.2",
+		"vite": "5.4.8",
+		"vite-tsconfig-paths": "4.3.2"
 	},
 	"engines": {
 		"node": ">=20.0.0"
